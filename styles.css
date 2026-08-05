@@ -1,5 +1,5 @@
 :root{
-    --paper:#EDE6D6;
+    --paper:#898989;
     --charcoal:#1C1B19;
     --ember:#B5451B;
     --ember-light:#D67A3E;
@@ -10,7 +10,7 @@
   body{
     margin:0;
     padding:24px 12px;
-    background:#898989;
+    background:#ffffff;
     font-family:'Roboto', Arial, Helvetica, sans-serif;
     color:var(--charcoal);
   }
